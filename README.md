@@ -6,10 +6,6 @@ El desarollo de esta app forma parte de nuestro proyecto titulado "IMPLEMENTACI√
 
 [Derechos reservados Correa Cerna & Vasquez Reyna]
 
-## UI delservicio WEB API
-![image](https://github.com/Jhonatan141200/Bible-Bot-FastApi/assets/83673179/2e27e94f-26b7-4bec-864e-1f76bfaa8309)
-
-
 ## Pasos para la ejecuci√≥n
 1. Librerias requeridas
    + FastApi 
@@ -28,3 +24,5 @@ El desarollo de esta app forma parte de nuestro proyecto titulado "IMPLEMENTACI√
    
    ![image](https://github.com/Jhonatan141200/Bible-Bot-FastApi/assets/83673179/54405d74-f00b-4832-a4c8-5f933f43883d)
 
+## UI delservicio WEB API
+![image](https://github.com/Jhonatan141200/Bible-Bot-FastApi/assets/83673179/2e27e94f-26b7-4bec-864e-1f76bfaa8309)
